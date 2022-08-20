@@ -31,6 +31,25 @@ Type - Identification of the variables' type. There are two possible values for 
 #Conclusion - Our conclusions about the importance of the variable, after we give a quick look at the data. We can keep with the same categorical scale as in 'Expectation'.
 #Comments - Any general comments that occured to us.
 
+# We encountered following patterns in the given historical data:
+1.Top Hotel - City Hotel. Top Agent - Agent No. 9. Top room type - A
+2.One out of every three bookings are cancelled.
+3.People prefer to tour more in August.
+4.Most preferred meal is BB (Bread and Breakfast.
+5.Online marketing is the best way to attract customers.
+6.People do not want to pre-deposit the money for booking.
+7.Only 10% of people require parking space.
+8.Most of the visitors are couples.
+9.The Resort hotel is preferred mostly for longer stays, day time stays. and when the parking space is needed.
+10.More than 15 days advance bookings have high chances of cancellation.
+11.Assigning a different room is not a reason for cancellation.
+12.Direct bookings have very less cancellation%.
+13.Best time to book a hotel is in January.
+14.Average days in advance booking: 77 days
+15.Average nights spent by visitors: 3.
+16.Most visitors are from Portugal, Britain, France, Spain and Germany.
+17.Total Special requests and the revenue depends more on total members arrived.
+
 # Inferences and Conclusion
 Conclusion
 That's it! We reached the end of our exercise.
